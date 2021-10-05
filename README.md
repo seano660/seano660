@@ -1,6 +1,6 @@
 ### Welcome to my GitHub repository 👋
 
-I'm a rising senior at Northeastern University in Boston, MA, studying mathematics, finance, and data science. 
+I'm currently a senior at Northeastern University in Boston, MA, studying mathematics, finance, and data science. 
 
 You can find here any interesting projects I might be working on. 
 
